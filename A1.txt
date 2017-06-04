@@ -1,0 +1,5 @@
+Name: Lehua Matsumoto
+UPI: mmat346
+ID: 952592957
+
+This assignment took me several days, but nothing more than a week in total. The Stage 1 changes were easy to make, because they required a lot of simply rewriting methods and variables for subclasses. The hardest part of the assignment for me was implementing the static generic area method. At first, I was confused about how the area() and calculateArea() methods were supposed to work together, and which required the ArrayList parameter and which didn't. Once I figured that out though, it wasn't as hard to put together. I think generics are still a little confusing to me, but with each example I'm understanding more. The topic on nested classes was most helpful to me, because I didn't know much about nested classes before this course. I felt accomplished after being able to incorporate it into this project and see the class work as it was supposed to.
